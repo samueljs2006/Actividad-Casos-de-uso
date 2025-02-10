@@ -64,8 +64,5 @@ Un **diagrama de casos de uso** sirve para modelar y entender el comportamiento 
 - **Detección temprana de errores o mejoras:** Al representar las interacciones antes del desarrollo, se pueden identificar casos no considerados o situaciones especiales.
 - **Base para documentación y pruebas:** Facilita la creación de pruebas de usuario y documentación del sistema.
 
----
-### 🚀 Autor: [Tu Nombre]  
-### 📅 Fecha: [Fecha]  
 
 
