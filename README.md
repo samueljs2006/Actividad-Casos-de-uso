@@ -5,7 +5,7 @@
 ![plantuml](https://github.com/user-attachments/assets/268e08ac-9b8c-47b5-98a8-5a93ad288b6d)
 
 Aqui tienes el codigo en plantuml:
-
+```plantuml
 @startuml
 
 actor Cliente
@@ -41,3 +41,5 @@ UC2 ..> UC5 : <<include>>
 UC2 ..> UC6 : <<include>>
 
 @enduml
+```
+
